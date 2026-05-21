@@ -1,0 +1,14 @@
+{
+  "name": "calculator-backend",
+  "version": "1.0.0",
+  "description": "Calculator API backend for Dexter Sandbox",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "mathjs": "^13.2.0"
+  }
+}
